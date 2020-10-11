@@ -18,7 +18,7 @@
     "svg"
   ],
   "engines": {
-    "node": ">=0.10.28"
+    "node": ">=14"
   },
   "devDependencies": {
     "gulp": "^3.8.9",
